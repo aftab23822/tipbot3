@@ -1,1 +1,1 @@
-worker: python tipcheck.py runserver
+worker: python tipcheck.py
