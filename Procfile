@@ -1,1 +1,1 @@
-web: python manage.py runserver
+worker: python tipcheck.py runserver
