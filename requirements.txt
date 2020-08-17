@@ -1,0 +1,15 @@
+configparser
+requests
+redis
+rq
+python-telegram-bot
+pyqrcode
+tweepy
+flask
+datetime
+flask_weasyprint
+mysqlclient
+nano-python
+TwitterAPI
+cairocffi
+pypng
